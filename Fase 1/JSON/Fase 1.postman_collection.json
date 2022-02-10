@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "dedfbe1c-e50e-42e5-ba6d-7ce74a8bc87d",
+		"name": "Fase 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://restcountries.com/v3.1/all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
